@@ -1,0 +1,12 @@
+body {
+  background-color: rgba(129, 129, 129, 0.979);
+  background-image: url(654239909315fddc8543261fa856d63e.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh; }
+
+.button {
+  background-color: #19b3e6;
+  color: #fff;
+  font-size: 1.8em; }
+

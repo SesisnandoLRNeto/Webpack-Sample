@@ -1,0 +1,7 @@
+body {
+  background-color: rgba(129, 129, 129, 0.979);
+  background-image: url('../imgs/webpack-image.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
